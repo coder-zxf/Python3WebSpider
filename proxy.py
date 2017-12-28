@@ -62,6 +62,7 @@ def checkip(data):
 
 
 def get_proxy_list():
+	"""调用后返回代理列表"""
 	html = loadPage()
 	data = getProxies(html)
 	proxy_list = checkip(data)
