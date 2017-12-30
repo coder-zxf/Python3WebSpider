@@ -38,7 +38,7 @@ def getProxies(html):
 	data = {
 			"ip": ip,
 			"port": port
-			}
+	}
 	return data
 
 
