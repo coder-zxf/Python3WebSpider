@@ -1,4 +1,6 @@
+ua_headers.py---随机的User-Agent
 proxy.py---可用高匿代理列表
 51jobSpider---前程无忧
 liepinSpider---猎聘网
+tieba_image_spider---百度贴吧
 
